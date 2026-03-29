@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+folium
+duckdb
+jupyter
+notebook
+ipykernel
+faker
