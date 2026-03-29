@@ -25,6 +25,7 @@ prague-stay-management/
 │   │
 │   └── processed/                    # Předzpracovaná data připravená pro analýzu
 │       └── listings_clean.csv
+│       └── calendar_clean.csv
 │
 ├── database/
 │   └── prague_stay.duckdb            # Finální databáze (odevzdání)
